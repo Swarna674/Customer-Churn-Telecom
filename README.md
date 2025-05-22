@@ -26,7 +26,7 @@ Customer churn is a major problem for telecom firms. This project builds a predi
 - Suggested actionable retention strategies
 
 ## 📁 Files
-- `Customer_Churn_Telecom.ipynb` – Main notebook with code & insights
+- `Customer-Churn-Telecom.ipynb` – Main notebook with code & insights
 
 ## 🚀 Future Work
 - Deploy using Streamlit or Flask
